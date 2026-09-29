@@ -11,7 +11,7 @@
 
 ## 快速开始
 
-将整个仓库文件夹放进 Codex 的 skills 目录，例如 `$CODEX_HOME/skills/mj-white-skill`；随后在对话中调用 `$mj-white-skill`。
+本仓库独立发布，不依赖其他 Skill 仓库。下载后保留 `mj-white-skill` 目录结构，将其放进 Codex 的 skills 目录（如 `$CODEX_HOME/skills/mj-white-skill`），确保 `SKILL.md` 位于该目录根部；随后在对话中调用 `$mj-white-skill`。
 
 ```text
 用 $mj-white-skill 设计三张宋式人物场景：先列出彼此不同的动作、主色与构图方案，再写英文 Midjourney 提示词。
@@ -24,6 +24,8 @@
 ```text
 用 $mj-white-skill 诊断这张生成图：指出最早失效的画面关系，只修改相关变量。
 ```
+
+**实际使用链路**：在 Codex 中得到英文提示词 → 复制到 Midjourney 生图 → 将生成图带回 Codex 做针对性纠偏。Midjourney 不直接安装本 Skill；若只使用 Midjourney，也可参照下方分支指南手动组织提示词。
 
 完整规则见 [SKILL.md](SKILL.md)；案例分支与色系索引见 [references/cases.md](references/cases.md)。
 
@@ -54,4 +56,4 @@ py -3 verify.py
 
 ## 素材与使用说明
 
-本仓库没有声明涵盖全部内容的统一许可证。案例图与作品素材的权利归相应创作者；公开转载或商业使用前请逐项确认使用权。此 Skill 面向 Midjourney 与 Codex 的工作流使用。
+本仓库没有声明涵盖全部内容的统一许可证。案例图与作品素材的权利归相应创作者；公开转载或商业使用前请逐项确认使用权。此 Skill 面向 Midjourney 与 Codex 的工作流使用。[查看发布范围与排除项](showcase/PUBLICATION-MANIFEST.md)。
