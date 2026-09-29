@@ -1,0 +1,65 @@
+{
+  "completed": [
+    {
+      "page": 1,
+      "file": "01.png",
+      "size": [
+        941,
+        1672
+      ],
+      "sha256": "c8259e2f4d583a3a97c2efa551bc1214bc90cbb1ddcdb3fdd5294e88617c79ad",
+      "status": "artistic_draft"
+    },
+    {
+      "page": 2,
+      "file": "02.png",
+      "size": [
+        941,
+        1672
+      ],
+      "sha256": "23912328afef5456ed19bc670aec0b3c353c2c15700e0f49cf3f8eac67fd71ac",
+      "status": "artistic_draft"
+    },
+    {
+      "page": 3,
+      "file": "03.png",
+      "size": [
+        941,
+        1672
+      ],
+      "sha256": "a98d93f3c65e917774adc4e778f767c8a4ab766c30da43e975bc90edce9c7b84",
+      "status": "artistic_draft"
+    },
+    {
+      "page": 4,
+      "file": "04.png",
+      "size": [
+        941,
+        1672
+      ],
+      "sha256": "debcec0452ca9722da5a5e457e26dae5b55f63dc822e86efad3d3199601f2193",
+      "status": "artistic_draft"
+    },
+    {
+      "page": 5,
+      "file": "05.png",
+      "size": [
+        941,
+        1672
+      ],
+      "sha256": "f82b564b34439c2c6f74424c4d50fa12673c3cff312a5a57ca7ae76645fc6874",
+      "status": "artistic_draft"
+    },
+    {
+      "page": 6,
+      "file": "06.png",
+      "size": [
+        941,
+        1672
+      ],
+      "sha256": "c3330d0618e070daddeef59cbbc3e38818b7154bbd588da2b12ce4af1bb713fa",
+      "status": "artistic_draft"
+    }
+  ],
+  "note": "Full-image Image redraw; pages 05 and 06 brand lockups visually reviewed as MJ WHITE. Small Chinese copy and seal marks may need proofreading before publication."
+}

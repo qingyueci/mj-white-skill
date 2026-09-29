@@ -1,0 +1,4 @@
+interface:
+  display_name: "MJ White"
+  short_description: "中式有色留白：人物场景与东方巨构 MJ 提示词"
+  default_prompt: "Use $mj-white-skill to plan a cinematic scene or write a Midjourney prompt."

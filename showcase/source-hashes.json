@@ -1,0 +1,104 @@
+{
+  "original_skill_sha256": "81cc2f0fb37c57f7f89c599111b2920a5b5a5578cd600defcf882b997bfde5c4",
+  "selected_assets": [
+    {
+      "asset": "references/images/person-umber-incense.jpg",
+      "source_sha256": "b95e363ea9794d2b5a8daa0a78b3701955d04a75a461ef0b688675b418f7aa17",
+      "asset_sha256": "ddc834eddb4b02545af74734877ae7fb1f28f5585e346bff6e4983530e61f8db",
+      "branch": "人物",
+      "color": "暖褐",
+      "size": [
+        1920,
+        1075
+      ]
+    },
+    {
+      "asset": "references/images/person-vermilion-scroll.jpg",
+      "source_sha256": "62762ec8c637aa9082633e696dc84542c01c7332a119e7d16b1747d09799f78e",
+      "asset_sha256": "c82b887fc3825636c6ee9e20971fdc658f37f1c10971ed16fc998bfe5bfbecdc",
+      "branch": "人物",
+      "color": "朱红",
+      "size": [
+        1920,
+        1075
+      ]
+    },
+    {
+      "asset": "references/images/person-deep-teal-pond.jpg",
+      "source_sha256": "b2c0531cdac05ee4c9d7c068061b3c7ff7e6fd6a4e9418185e15dc4e83c68221",
+      "asset_sha256": "9f3057031617f13bda9c1d66c345e4488bd8aafb15695572de6de93a6d7410d0",
+      "branch": "人物",
+      "color": "墨绿",
+      "size": [
+        1920,
+        819
+      ]
+    },
+    {
+      "asset": "references/images/person-indigo-tea.jpg",
+      "source_sha256": "f634676b9e23c6066f9b71005cb44d35ad5ee9425bd587947e2a4f73ceb3e46e",
+      "asset_sha256": "ef698b85ce7d9993914e47c1afc070907c187d2214852c94937651c82d216581",
+      "branch": "人物",
+      "color": "靛蓝",
+      "size": [
+        1920,
+        819
+      ]
+    },
+    {
+      "asset": "references/images/giant-sand-palace.jpg",
+      "source_sha256": "0b72e2495a8f0345746aabb0f4fffb978fb05be894d0ee2ba1759e11040fd380",
+      "asset_sha256": "3b835fd5ed2f7e5bfa09df42901e4210a97915303bd6cda9869d7f6d8cf2939e",
+      "branch": "巨构",
+      "color": "米金",
+      "size": [
+        1920,
+        1280
+      ]
+    },
+    {
+      "asset": "references/images/giant-russet-wall.jpg",
+      "source_sha256": "96278c026d0a6b0a63d3240d8378b5881dff494b89ddbdbdf69b33c66c6c255a",
+      "asset_sha256": "3f67273df6ac16b04a396a723f5dda1169e0191958e4c38ebc2a198cb3b51523",
+      "branch": "巨构",
+      "color": "赤褐",
+      "size": [
+        1920,
+        1280
+      ]
+    },
+    {
+      "asset": "references/images/giant-dark-green-cloth.jpg",
+      "source_sha256": "dc9e65e6d3992f9f35bde3be873121bb74cf9497a70ba23afdfbdf6c23de5ba4",
+      "asset_sha256": "f4a3e908e23a1dfbdfee4ecd93be95336523a8113f498a903c5aff368938b323",
+      "branch": "巨构",
+      "color": "深青绿",
+      "size": [
+        1920,
+        1280
+      ]
+    },
+    {
+      "asset": "references/images/giant-pale-bone.jpg",
+      "source_sha256": "10fa91bf8cd28dfa67d3af76d43266b2420780b5e9846597df5bbedb4cde7899",
+      "asset_sha256": "f819e98a492d85e1dde8941fa5d2bc152bc516f5fabe69b120bbd8e1ff8f6554",
+      "branch": "巨构",
+      "color": "冷灰白",
+      "size": [
+        1920,
+        1280
+      ]
+    },
+    {
+      "asset": "references/images/giant-midnight-palace.jpg",
+      "source_sha256": "8df10093aa054c67daee2a9340f7eafac0320dcb32397bcabf493730265f489f",
+      "asset_sha256": "16055cb5da50780575ffcfb67742d156f04031a6a5f73bee8bbf67bd4f4dca9c",
+      "branch": "巨构",
+      "color": "深蓝",
+      "size": [
+        1920,
+        1280
+      ]
+    }
+  ]
+}
